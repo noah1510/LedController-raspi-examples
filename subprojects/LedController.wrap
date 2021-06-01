@@ -1,0 +1,6 @@
+[wrap-git]
+url = https://github.com/noah1510/LedController.git
+revision = abstraction-layer
+
+[provides]
+dependency_names = ['LedController']
